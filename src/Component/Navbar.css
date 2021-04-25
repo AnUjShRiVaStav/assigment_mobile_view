@@ -1,0 +1,16 @@
+.nav {
+    margin-top: 10px;
+    max-width: 375px;
+    width: 100%;
+     text-align: center; 
+    display: flex; 
+}
+
+.icon {
+   margin-left: 100px;
+}
+
+.h{
+    margin-left: 60px;
+    font-size: 12px;
+}
